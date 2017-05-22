@@ -49,17 +49,8 @@
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Rotator.cs" />
- <Reference Include="Facebook.Unity">
- <HintPath>C:/Unity/Unity_2dRogue/CodeRollABall/Roll a Ball/Library/FacebookSDK/Facebook.Unity.dll</HintPath>
- </Reference>
- <Reference Include="Facebook.Unity.Arcade">
- <HintPath>C:/Unity/Unity_2dRogue/CodeRollABall/Roll a Ball/Library/FacebookSDK/Facebook.Unity.Arcade.dll</HintPath>
- </Reference>
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>C:/Unity/Unity_2dRogue/CodeRollABall/Roll a Ball/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
- </Reference>
- <Reference Include="FacebookNamedPipeClient">
- <HintPath>C:/Unity/Unity_2dRogue/CodeRollABall/Roll a Ball/Library/FacebookSDK/FacebookNamedPipeClient.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
